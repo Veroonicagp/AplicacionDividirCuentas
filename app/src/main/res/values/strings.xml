@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">DivisorDeCuentas</string>
+    <string name="cuenta">Precio cuenta</string>
+    <string name="personas">Nº personas</string>
+    <string name="propina">Redondear propina</string>
+    <string name="calcular">Calcular\n</string>
 </resources>
